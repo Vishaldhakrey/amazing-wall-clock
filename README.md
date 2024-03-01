@@ -24,6 +24,4 @@ To use the wall clock project, simply open the index.html file in a web browser.
 
 **Contributing**
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to fork the repository, make your changes, and submit a pull request.
-=======
-# amazing-wall-clock
->>>>>>> origin/main
+
